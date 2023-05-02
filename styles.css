@@ -2,7 +2,7 @@
 .holder{
 	display: flex;
 	flex-flow: row;
-	justify-content: center;
+	justify-content: space-evenly;
 	flex-wrap: wrap;
 	align-item: space-evenly;
 	
